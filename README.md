@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Almahdi Achbab </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;justify-content:center">
     <img style="margin-top:50px" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=19&center=true&vCenter=true&width=600&lines=Hi..&hearts;++;Full+Stack+Developer;Software+Engineer;Love+to+learn+new+stuffs..<3" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
