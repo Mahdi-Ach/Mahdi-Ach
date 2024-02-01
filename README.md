@@ -1,8 +1,7 @@
 <h1 align="center"><b>Hi , I'm Almahdi Achbab </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display:flex;align-items: center;justify-content:center">
+<div align="center">
     <img style="margin-left:40" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=19&center=true&vCenter=true&width=400&lines=Hi..&hearts;++;Full+Stack+Developer;Software+Engineer;Love+to+learn+new+stuffs..<3" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
 
@@ -82,8 +81,40 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
 
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Spoken Languages**
+<br>
+
+- ![Berber](https://img.shields.io/badge/Berber-green?style=for-the-badge)
+- ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
+- ![French](https://img.shields.io/badge/French-red?style=for-the-badge)
+- ![Arabic](https://img.shields.io/badge/Arabic-black?style=for-the-badge)
+
+
+
+<br>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/mahdi-achbab-8596b3295/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:Almahdi Achbab-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
