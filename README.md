@@ -22,8 +22,8 @@
 - Playing CTF's at spare time
 <br>
 - Currently learning Web Development by Self
-<br>
-- Personal website [link](https://www.0xabdulkhalid.ml)](https://drive.google.com/file/d/1QANiqZKgPCCQhJPJUCD4OVCIkkq6R729/view?usp=sharing)
+<!--<br>
+- Personal website [link](https://www.0xabdulkhalid.ml)](https://drive.google.com/file/d/1QANiqZKgPCCQhJPJUCD4OVCIkkq6R729/view?usp=sharing)-->
 <br>
 - I’m currently open for an Intern or a new job opportunity. This is <a href="https://drive.google.com/file/d/1QANiqZKgPCCQhJPJUCD4OVCIkkq6R729/view?usp=sharing)">My Resume</a>.
 
