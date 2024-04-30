@@ -13,9 +13,9 @@
 <picture><img align="right" src="myimage.jpg" width = 250px></picture>
 <br>
 <br>
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full-Stack Developer
 <br>
-- Playing CTF's at spare time
+- Playing chess at spare time
 <br>
 - Currently learning Web Development by Self
 <!-- <br>
