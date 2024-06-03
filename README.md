@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi , I'm Almahdi Achbab </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-    <!-- <img style="margin-left:40" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=19&center=true&vCenter=true&width=400&lines=Hi..&hearts;++;Full+Stack+Developer;Software+Engineer;Love+to+learn+new+stuffs..<3" />-->
+    <img style="margin-left:40" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=19&center=true&vCenter=true&width=400&lines=Hi..&hearts;++;Full+Stack+Developer;Software+Engineer;Love+to+learn+new+stuffs..<3" />
 </div>
 
 
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**-->
 
 <picture><img align="right" src="myimage.jpg" width = 250px></picture>
 <br>
