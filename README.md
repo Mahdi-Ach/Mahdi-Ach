@@ -87,16 +87,18 @@
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> **Spoken Languages**
 <br>
 
-- ![Berber](https://img.shields.io/badge/Berber-green?style=for-the-badge)
-- ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
-- ![French](https://img.shields.io/badge/French-red?style=for-the-badge)
-- ![Arabic](https://img.shields.io/badge/Arabic-black?style=for-the-badge)
+![Berber](https://img.shields.io/badge/Berber-green?style=for-the-badge)
+<br>
+![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
+<br>
+![French](https://img.shields.io/badge/French-red?style=for-the-badge)
+<br>
+![Arabic](https://img.shields.io/badge/Arabic-black?style=for-the-badge)
 
 
 
 <br>
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div>
 
 
