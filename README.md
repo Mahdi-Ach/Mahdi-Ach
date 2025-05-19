@@ -21,7 +21,7 @@
 <!-- <br>
 - Personal website [link](https://www.0xabdulkhalid.ml)](https://drive.google.com/file/d/1QANiqZKgPCCQhJPJUCD4OVCIkkq6R729/view?usp=sharing) -->
 <br>
-- I’m currently open for an Intern or a new job opportunity. This is <a href="https://drive.google.com/file/d/1QANiqZKgPCCQhJPJUCD4OVCIkkq6R729/view?usp=sharing)">My Resume</a>.
+- I’m currently open for an Intern or a new job opportunity. This is <a href="https://drive.google.com/file/d/1ehnqtQO4aiwfURXO8J0W5NAnDAoiMLI3/view?usp=sharing">My Resume</a>.
 
 <br>
 <br>
