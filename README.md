@@ -102,7 +102,7 @@
 <div>
 
 
-<a href="https://www.linkedin.com/in/mahdi-achbab-8596b3295/" target="_blank">
+<a href="https://www.linkedin.com/in/al-mahdi-achbab/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:Almahdi Achbab-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <br>
