@@ -1,6 +1,7 @@
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Almahdi%20Achbab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Big%20Data%20%26%20AI&descAlignY=58&descSize=20" alt="header" />
-
+<p align="center">
+  <img src="myphoto.jpg" alt="Almahdi Achbab" width="180" style="border-radius:50%;" />
+</p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2C9CE6&center=true&vCenter=true&width=700&lines=State-Engineer+in+Computer+Science+%F0%9F%8E%93;M1+Big+Data+%26+Artificial+Intelligence+%40+ESIEE-IT;I+build+end-to-end+data+pipelines;Seeking+a+6-month+internship+(04%2F2027%E2%80%9309%2F2027))](https://git.io/typing-svg)
