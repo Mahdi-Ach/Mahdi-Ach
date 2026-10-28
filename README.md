@@ -2,11 +2,12 @@
 <p align="center">
   <img src="myphoto.jpg" alt="Almahdi Achbab" width="180" style="border-radius:50%;" />
 </p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2C9CE6&center=true&vCenter=true&width=700&lines=State-Engineer+in+Computer+Science+%F0%9F%8E%93;M1+Big+Data+%26+Artificial+Intelligence+%40+ESIEE-IT;I+build+end-to-end+data+pipelines;Seeking+a+6-month+internship+(04%2F2027%E2%80%9309%2F2027))](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2c5364&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Mahdi-Ach&label=Profile%20Views&color=2c5364&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Almahdi_Achbab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-mahdi-achbab/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-kappa-mauve-75.vercel.app/)
@@ -79,7 +80,7 @@ I design **Big Data architectures** and reliable **data pipelines**, leveraging 
 
 <!--
 Example links to add:
-[🏦 Banking RAG Assistant](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+[🏦 Banking RAG Assistant](https://github.com/Mahdi-Ach/REPO_NAME)
 -->
 
 ---
@@ -111,36 +112,24 @@ Example links to add:
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Core Stack
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
+---
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+## 🚀 What I'm Working On
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile details" />
+- **Banking RAG Assistant** — RAG over PDFs, MRR 0.93, local LLM
+- **Lakehouse Weather Pipeline** — Kafka → MinIO → PostgreSQL → dbt → Airflow → Grafana
+- **Portfolio** — Next.js personal site
 
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Mahdi-Ach&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> 📫 Open to a **6-month internship (04/2027 – 09/2027)** in Data Engineering / Big Data / AI.
 
 ---
 
